@@ -14,3 +14,4 @@ author: 'RMS83'
 8. Если необходимо обновляем сам pip коммандой * `python.exe -m pip install --upgrade pip`
 9. Устанавливаем необходимые версии библиотек через  * `pip install` 
 10. Создаем фаил загрузки (requirements.txt) для выгрузки библиотек VENV коммандой * `pip freeze > requirements.txt`
+11. Для выхода из виртуального окружения комманда * `deactivate`
